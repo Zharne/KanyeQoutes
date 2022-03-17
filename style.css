@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://wallpaper.dog/large/17114177.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height:100vh;
+  /*   color: white; */
+    padding-top:20%;
+  }
+  
+  
+  #quote{
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+  }
+    
